@@ -1,13 +1,30 @@
 h1{
     text-align: center;
     color: purple;
+	font-size:45px;
 }
 p{
-    color: #3333cc;
+    color: blue;
     font-family: monospace;
     text-align: center;
-{
-body{
-    background-color: lightblue;  
+	font-size:20px;
 }
+body{
+    background-color: lightgreen;  
+}
+.wrapper{
+	text-align: center;
+}
+.hidden{
+	display: none;
+	color: red;
+}
+.endcolors{
+	color: #00ffcc;
+	background-color: black;
+	display: none;
+	font-size:30px;
+
+}
+
   
