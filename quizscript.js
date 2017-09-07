@@ -1,5 +1,5 @@
-$(document).ready(function() {
-	$("").click(function() {
-		$("").css({"}); 
-	});
+$(document).ready(function(){
+		$("button1").hide(function(){
+			$("#answer1").show();
+		});
 });
